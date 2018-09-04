@@ -29,9 +29,8 @@ blog:
 # Author info
 author:
   fullname                  : Your Name
-  rss                       : true # generate RSS feed and show it's icon in header
   mail                      : kkh0539@gmail.com # change to your e-mail address
-  github                    : github-user-name
+  github                    : enjoyDaD
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
