@@ -30,7 +30,7 @@ blog:
 author:
   fullname                  : Your Name
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : kkh0539@gmail.com # change to your e-mail address
   twitter                   : twitter-user-name
   github                    : github-user-name
   youtube                   : youtube-user-name
