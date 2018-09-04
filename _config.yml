@@ -1,3 +1,4 @@
+remote_theme : melangue/dactl
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
