@@ -9,7 +9,7 @@ url                          : "https://enjoyDaD.github.io" # the base hostname 
 blog:
   title                      : Enjoy Design and Develope
   description                  : >
-                               this should contain a proper description
+                               © EnjoyDaD Inc. All rights reserved. Powered by GitHub Pages.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -28,7 +28,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : # ROSA
   mail                      : kkh0539@gmail.com # change to your e-mail address
   github                    : enjoyDaD
   photo                     : "uploads/me2.png"
