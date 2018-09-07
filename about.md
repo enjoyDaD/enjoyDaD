@@ -18,8 +18,10 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+## 안녕하세요. 
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+UI 디자이너 EnjoyD&D입니다. D&D는 Design과 Develope의 약자에요. 캐릭터 디자인을 시작으로 웹디자인, 그래픽디자인, 편집디자인, 모바일 디자인, 한때는 플래시도 했었고 지금은 마크업을 병행하며 디자인을 하고 있습니다. 
+HTML&CSS를 좋아하고 현재는 JAVASCRIP를 조금씩 공부하며 인터렉션 디자인에 관심을 많이 두고 있습니다. 서로 공유하며 지식을 넓히고자 Jekyll 블로그를 시작하였습니다.
+공부 및 새로운 프로젝트는 관심이 많으니 주저 말고 연락 주세요.
 
 </div>
