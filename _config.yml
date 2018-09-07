@@ -7,9 +7,9 @@ url                          : "https://enjoyDaD.github.io" # the base hostname 
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Enjoy Design and Develope
+  title                      : Enjoy D&D
   description                  : >
-                               © EnjoyDaD Inc. All rights reserved. Powered by GitHub Pages.
+                               © EnjoyD&D Inc. All rights reserved. Powered by GitHub Pages.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
